@@ -1,0 +1,7 @@
+{
+  "bos_token": "<|endoftext|>",
+  "eos_token": "<|EOS|>",
+  "pad_token": "[PAD]",
+  "sep_token": "<|body|>",
+  "unk_token": "<|endoftext|>"
+}

@@ -1,0 +1,9 @@
+{
+  "add_prefix_space": false,
+  "bos_token": "<|endoftext|>",
+  "eos_token": "<|endoftext|>",
+  "name_or_path": "PlanTL-GOB-ES/gpt2-base-bne",
+  "special_tokens_map_file": null,
+  "tokenizer_class": "GPT2Tokenizer",
+  "unk_token": "<|endoftext|>"
+}
